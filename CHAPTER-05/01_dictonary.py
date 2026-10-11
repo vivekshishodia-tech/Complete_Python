@@ -2,7 +2,7 @@ student = {
     "name": "Vivek",
     "age": 20,
     "course": "B.Tech",
-    "marks": 75
+    "marks": 80
 }
 
 print(student)
